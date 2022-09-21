@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Disqus.Helper</id>
+    <version>1.1</version>
+    <title>Disqus Helper for Web Pages</title>
+    <authors>Microsoft DPE</authors>
+    <owners>Microsoft DPE</owners>
+    <licenseUrl>http://disqusforwebpages.codeplex.com/license</licenseUrl>
+    <projectUrl>http://disqusforwebpages.codeplex.com/</projectUrl>
+    <iconUrl>https://nugetgallery.blob.core.windows.net/icons/Disqus.Helper.1.1.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Disqus Helper for Web Pages provides an easy way to integrate Disqus on your web site. With a few lines of code you'll able to show Disqus threads in your pages and let your users interact through your site.</description>
+    <summary>The Disqus Helper for WebMatrix provides an easy way to integrate Disqus on your WebMatrix site. With a few lines of code you'll able to show Disqus threads in your pages and let your users interact through your site.</summary>
+    <tags>ASPNETWEBPAGES</tags>
+  </metadata>
+</package>
